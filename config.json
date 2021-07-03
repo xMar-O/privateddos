@@ -1,5 +1,5 @@
 {
-	"MONGO_DB":"mongodb+srv://support:dnhqQi2CQLVbhWVF@supportdata.af7eu.mongodb.net/ddosdb?retryWrites=true&w=majority",
-	"DISCORD_TOKEN":"ODE3MTE5NDY3MTQxODU3MzQx.YEE3zg.8PiKQwaZQx-nLFtfo1KQmHjq4nM",
-	"owner":"697562988915327016"
+	"MONGO_DB":"",
+	"DISCORD_TOKEN":"",
+	"owner":""
 }
